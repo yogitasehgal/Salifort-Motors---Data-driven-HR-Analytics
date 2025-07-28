@@ -2,18 +2,21 @@
 📄 Salifort Motors – Data-Driven HR Analytics
 ________________________________________
 🛠 Tools & Technologies Used:
+
 •	Python (Jupyter Notebook)
 •	pandas, NumPy
 •	scikit-learn
 •	matplotlib, seaborn
 ________________________________________
 🧠 Problem Statement:
+
 Salifort Motors was facing high employee attrition, impacting organizational performance and HR stability. This project was developed to help the HR department:
 •	Understand key drivers of employee turnover.
 •	Forecast potential attrition risks.
 •	Make data-backed decisions to improve employee retention.
 ________________________________________
 📈 Project Workflow:
+
 1. Data Collection & Preparation:
 •	Loaded HR datasets including employee satisfaction, evaluation, salary, and working hours.
 •	Cleaned data by removing duplicates and handling missing values.
@@ -35,6 +38,7 @@ o	Confusion Matrix
 •	Decision tree revealed clear decision paths leading to attrition.
 ________________________________________
 📊 Visual Highlights:
+
 •	Attrition rates by satisfaction level
 •	Correlation heatmap of employee metrics
 •	Decision tree structure and feature importance
@@ -49,16 +53,19 @@ ________________________________________
 •	High evaluation scores should not be reserved for employees who work 200+ hours per month. Consider a proportionate scale for rewarding employees who contribute more/put in more effort. 
 ________________________________________
 🔮 Future Enhancements:
+
 •	Integrate model into a web dashboard using Flask + Power BI.
 •	Expand dataset with new KPIs like exit interview summaries.
 •	Deploy model to assist HR in real-time decision-making.
 ________________________________________
 👤 Author:
+
 Yogita Sehgal
 GitHub: https://github.com/yogitasehgal
 LinkedIn: https://www.linkedin.com/in/yogita-sehgal-0sr
 Email: sehgalyogita4@gmail.com
 ________________________________________
 📢 Disclaimer:
+
 This is an educational project. The data used is either simulated or anonymized and is not affiliated with the actual operations of Salifort Motors.
 
