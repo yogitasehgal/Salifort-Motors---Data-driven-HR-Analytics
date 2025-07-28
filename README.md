@@ -45,6 +45,7 @@ ________________________________________
 All visualizations are available within the Jupyter Notebook.
 ________________________________________
 📌 Recommendations to HR:
+
 •	Cap the number of projects that employees can work on.
 •	Consider promoting employees who have been with the company for atleast four years, or conduct further investigation about why four-year tenured employees are so dissatisfied. 
 •	Either reward employees for working longer hours, or don't require them to do so. 
